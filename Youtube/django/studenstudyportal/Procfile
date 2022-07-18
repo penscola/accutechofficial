@@ -1,1 +1,1 @@
-web: gunicorn ./studestudyportal --log-file -
+web: gunicorn /Youtube/django/studestudyportal --log-file -
