@@ -1,0 +1,1 @@
+web: gunicorn studenstudyportal.wsig --log-file -
